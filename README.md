@@ -1,6 +1,6 @@
-# <div align="center">
+<div align="center">
 # 👋 Hello, World!
-# </div>
+</div>
 
 #### My name is Egor - Student Developer & Python Enthusiast
 
