@@ -5,7 +5,7 @@
 ## 📫 Let's Connect!
 ### LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
 
-## 🎓 Academic Journey:
+## 🎓 Academic Journey
 - Currently: Deep diving into Python development
 - Focus Areas: Software engineering, data analysis, Finance
 - Projects: Building practical tools that combine mathematics and programming
@@ -17,11 +17,10 @@
 
 ## 🚀 Projects
 
-## Python library for symbolic derivative calculations
+### Python library for symbolic derivative calculations
 ### [Roads to Philosophy](https://github.com/ВАШ_USERNAME/roads-to-philosophy)
-A comprehensive tool for computing simple derivatives, higher-order derivatives, and partial derivatives using SymPy. Features clean architecture, extensive error handling, and professional documentation. Perfect for educational purposes and mathematical computations.
+### A comprehensive tool for computing simple derivatives, higher-order derivatives, and partial derivatives using SymPy. Features clean architecture, extensive error handling, and professional documentation. Perfect for educational purposes and mathematical computations.
 
 <div align="center">
 ## 💡 "The beautiful thing about learning is that no one can take it away from you." - B.B. King
-
-</div> ```
+</div>
