@@ -3,7 +3,7 @@
 #### My name is Egor - Student Developer & Python Enthusiast
 
 ## 📫 Let's Connect!
-### LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
+#### LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
 
 ## 🎓 Academic Journey
 - Currently: Deep diving into Python development
