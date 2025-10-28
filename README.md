@@ -1,9 +1,9 @@
 # 👋 Hello, World!
 
-My name is Egor - Student Developer & Python Enthusiast
+### My name is Egor - Student Developer & Python Enthusiast
 
-# 📫 Let's Connect!
-## LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
+## 📫 Let's Connect!
+### LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
 
 ## 🎓 Academic Journey:
 - Currently: Deep diving into Python development
@@ -22,7 +22,6 @@ My name is Egor - Student Developer & Python Enthusiast
 A comprehensive tool for computing simple derivatives, higher-order derivatives, and partial derivatives using SymPy. Features clean architecture, extensive error handling, and professional documentation. Perfect for educational purposes and mathematical computations.
 
 <div align="center">
-💡 "The beautiful thing about learning is that no one can take it away from you." - B.B. King
-⭐️ From Egor
+## 💡 "The beautiful thing about learning is that no one can take it away from you." - B.B. King
 
 </div> ```
