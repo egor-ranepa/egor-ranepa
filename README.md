@@ -1,4 +1,6 @@
+# <div align="center">
 # 👋 Hello, World!
+# </div>
 
 #### My name is Egor - Student Developer & Python Enthusiast
 
