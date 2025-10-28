@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-### My name is Egor - Student Developer & Python Enthusiast
+##### My name is Egor - Student Developer & Python Enthusiast
 
 ## 📫 Let's Connect!
 ### LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
@@ -20,6 +20,6 @@
 ### [Roads to Philosophy](https://github.com/ВАШ_USERNAME/roads-to-philosophy)
 "A comprehensive tool for computing simple derivatives, higher-order derivatives, and partial derivatives using SymPy. Features clean architecture, extensive error handling, and professional documentation. Perfect for educational purposes and mathematical computations".
 
-<div align="center">
+## <div align="center">
 ## 💡 "The beautiful thing about learning is that no one can take it away from you." - B.B. King
-</div>
+## </div>
