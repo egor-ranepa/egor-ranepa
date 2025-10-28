@@ -1,6 +1,6 @@
 # 👋 Hello, World!
 
-##### My name is Egor - Student Developer & Python Enthusiast
+#### My name is Egor - Student Developer & Python Enthusiast
 
 ## 📫 Let's Connect!
 ### LinkedIn: https://www.linkedin.com/in/egor-kirillov-59329b33b/
