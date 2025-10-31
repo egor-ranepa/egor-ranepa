@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-### [Roads to Philosophy](https://github.com/ВАШ_USERNAME/roads-to-philosophy)
+### [Calculus_toolz](https://github.com/egor-ranepa/calculus_toolz.git)
 "A comprehensive tool for computing simple derivatives, higher-order derivatives, and partial derivatives using SymPy. Features clean architecture, extensive error handling, and professional documentation. Perfect for educational purposes and mathematical computations".
 
 ## <div align="center">
